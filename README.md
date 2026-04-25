@@ -2,7 +2,7 @@
 
 Here provides the codes to reproduce the numerical experiments in the paper "Knowledge Transfer across Multiple Principal Component Analysis Studies".
 
-The experiments are based on public datasets, which can be found at https://www.kaggle.com/datasets/jindongwang92/crossposition-activity-recognition (Wang, et al. 2018) and https://www.sciencedirect.com/science/article/abs/pii/S016794731630041X (Gross and
+The public datasets in this work can be found at https://www.kaggle.com/datasets/jindongwang92/crossposition-activity-recognition (Wang, et al. 2018) and https://www.sciencedirect.com/science/article/abs/pii/S016794731630041X (Gross and
 Tibshirani, 2016), respectively.
 
 ## Summary
